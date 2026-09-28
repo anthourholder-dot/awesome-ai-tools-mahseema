@@ -193,8 +193,6 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for business automation: lead generation, knowledge library RAG, outreach, and scheduled workflows on Windows, macOS, and Linux.
 - 
 - 
-
-
 ### Meeting assistants
 
 - [Otter.ai](https://otter.ai/) - A meeting assistant that records audio, writes notes, automatically captures slides, and generates summaries.
